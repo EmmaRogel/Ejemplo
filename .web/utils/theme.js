@@ -1,0 +1,1 @@
+export default {"styles": {"global": {"body": {"fontFamily": "Proppins", "fontWeight": "300", "backgroundColor": "#0C151D"}}}}
